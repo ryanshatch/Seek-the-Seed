@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Guessing Game</title>
-</head>
-
 <body>
   <h1 align="center">Random Number Guessing Game</h1>
 
